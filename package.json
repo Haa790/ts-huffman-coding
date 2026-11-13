@@ -1,6 +1,6 @@
 {
   "name": "ts-huffman-coding",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Builds Huffman codes from character frequencies and encodes or decodes text with them.",
   "type": "module",
   "main": "src/index.js",
